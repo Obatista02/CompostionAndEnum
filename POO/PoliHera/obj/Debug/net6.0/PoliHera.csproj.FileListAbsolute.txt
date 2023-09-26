@@ -1,0 +1,14 @@
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\bin\Debug\net6.0\PoliHera.exe
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\bin\Debug\net6.0\PoliHera.deps.json
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\bin\Debug\net6.0\PoliHera.runtimeconfig.json
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\bin\Debug\net6.0\PoliHera.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\bin\Debug\net6.0\PoliHera.pdb
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.AssemblyInfoInputs.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.AssemblyInfo.cs
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\refint\PoliHera.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.pdb
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\PoliHera.genruntimeconfig.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\PoliHera\PoliHera\obj\Debug\net6.0\ref\PoliHera.dll
