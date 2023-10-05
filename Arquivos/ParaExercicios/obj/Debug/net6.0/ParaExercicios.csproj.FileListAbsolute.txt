@@ -1,0 +1,14 @@
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\bin\Debug\net6.0\ParaExercicios.exe
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\bin\Debug\net6.0\ParaExercicios.deps.json
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\bin\Debug\net6.0\ParaExercicios.runtimeconfig.json
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\bin\Debug\net6.0\ParaExercicios.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\bin\Debug\net6.0\ParaExercicios.pdb
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.AssemblyInfoInputs.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.AssemblyInfo.cs
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\refint\ParaExercicios.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.pdb
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ParaExercicios.genruntimeconfig.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\ParaExercicios\ParaExercicios\obj\Debug\net6.0\ref\ParaExercicios.dll
