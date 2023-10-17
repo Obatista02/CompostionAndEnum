@@ -1,0 +1,14 @@
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\bin\Debug\net6.0\Special.exe
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\bin\Debug\net6.0\Special.deps.json
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\bin\Debug\net6.0\Special.runtimeconfig.json
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\bin\Debug\net6.0\Special.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\bin\Debug\net6.0\Special.pdb
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.AssemblyInfoInputs.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.AssemblyInfo.cs
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\refint\Special.dll
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.pdb
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\Special.genruntimeconfig.cache
+C:\Users\Guilherme Batista\Documents\C#\ProjetosC#\Special\Special\obj\Debug\net6.0\ref\Special.dll
